@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: 0;
+    font-family: sans-serif;
+}
+.head{
+    display: flex;
+    padding:30px 70px ;
+}
+.head img{
+    width: 50px ;
+    height: 50px;
+}
+.head ul  {
+    display: flex;
+
+}
+.head ul li{
+    margin: 20px;
+}
+.card h1{
+margin-left: 300px;
+position: relative;
+top: 100px;
+}
+.card p{
+    margin-left: 300px;
+    position: relative;
+    top: 120px;
+
+}
+.button{
+    margin-left: 300px;
+    position: relative;
+    top: 160px;
+}
+.btn-1{
+    padding:20px 50px ;
+    border: solid 1px #000;
+}
+.btn-2{
+    background-color: yellow;
+    padding:20px 50px ;
+    border: solid 1px #000;
+}
+
+
+/* 1 - init - Boshklash bosqichi Bunda sourse Control  */
